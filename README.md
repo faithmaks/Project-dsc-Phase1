@@ -9,13 +9,26 @@ In this project I will analyze what makes a Box Office movie a success. What rol
 In the movie industry, everything has to run like a well oiled machine from writting, production to the release. It is important for prepoduction to work smoothly for other
 ## The Data Source
 The source of data for this project are:
-Box Office Mojo (Links to an external site.),
-IMDB (Links to an external site.),
-Rotten Tomatoes (Links to an external site.),
-TheMovieDB (Links to an external site.),
-The Numbers
+Box Office Mojo ,
+IMDB ,
+Rotten Tomatoes,
+The MovieDB,
+The Numbers.
 
 ## Data Understanding and Analysis
+The data has five important tables that give insight into what goes into production for a movie to stand out or do well in theatres and to give a profit.
+I narrowed it down to 5 noticeable things:
+1. The Budget
+2. Popularity
+3. Writers and directors
+4. Producers
+5. Genres
+6. Ratings
+
+
 ## Data Description
+A movie can do well domesticaly or internationaly/ in the foreign market. 
+Some genres can also do better than others. 
+Some directors writers receive better ratings and also appear more in the box office than others
 ## Conclusions
 ## Summary
