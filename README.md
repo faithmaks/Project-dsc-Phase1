@@ -26,6 +26,7 @@ I narrowed it down to 5 noticeable things:
 4. Producers
 5. Genres
 6. Ratings
+I used Python for data analysis.
 
 
 ## Data Description
