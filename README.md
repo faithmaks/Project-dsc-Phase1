@@ -33,6 +33,7 @@ I used Python and Jupyter Notebooks for data analysis, cleaning and inferences.
 A movie can do well domesticaly or internationaly/ in the foreign market. 
 Some genres can also do better than others. 
 Some directors writers receive better ratings and also appear more in the box office than others.
+
 ![image](https://user-images.githubusercontent.com/109651216/186856158-1704a85e-555e-418d-bde2-efd947ed35c7.png)
 
 
