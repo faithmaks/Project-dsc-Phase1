@@ -6,7 +6,8 @@ Is it the actor? Producers, directors or the studio? Or perharps the marketing?
 How do you keep up with the times and trends and more especiallialy, digitalization?
 In this project I will analyze what makes a Box Office movie a success. What role preproduction, production post production play in the success of a movie. The importance of picking the right people,genre and distributor. In the success of a movie. What goes into running a studio that produces successful movie?
 ## Business Understanding
-In the movie industry, everything has to run like a well oiled machine from writting, production to the release. It is important for prepoduction to work smoothly for other
+In the movie industry, everything has to run like a well oiled machine from writting, production to the release. It is important for prepoduction to work smoothly for other departments and aspects to run as well.
+
 ## The Data Source
 The source of data for this project are:
 1. Box Office Mojo
@@ -32,10 +33,15 @@ I used Python and Jupyter Notebooks for data analysis, cleaning and inferences.
 ## Data Description
 A movie can do well domesticaly or internationaly/ in the foreign market. 
 Some genres can also do better than others. 
-Some directors writers receive better ratings and also appear more in the box office than others.
+Some directors and writers receive better ratings and also appear more in the box office than others and therefore having them produce/write might impact movie's success.
 
-![image](https://user-images.githubusercontent.com/109651216/186856158-1704a85e-555e-418d-bde2-efd947ed35c7.png)
 
 
 ## Conclusions
+For a movie tto succeed, you need to get the right production tean and reduce the budget
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/109651216/187035766-c69f4a1f-c4bc-4e79-b041-3f1b21381e22.png">
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/109651216/187035787-cd8f5bf0-5328-4f65-b269-95ed0a9064a8.png">
+<img width="385" alt="image" src="https://user-images.githubusercontent.com/109651216/187035843-5880873a-cdf1-4aa9-b385-9e0fa834eae8.png">
+
 ## Summary
+A movie has to have a lot of thiings done right fcor it to succeed, but sometimes it might be just luck. 
