@@ -38,10 +38,10 @@ Some directors and writers receive better ratings and also appear more in the bo
 
 
 ## Conclusions
-For a movie tto succeed, you need to get the right production tean and reduce the budget
+For a movie to succeed, you need to get the right production team, find the right distributor and reduce the budget
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/109651216/187035766-c69f4a1f-c4bc-4e79-b041-3f1b21381e22.png">
 
 <img width="385" alt="image" src="https://user-images.githubusercontent.com/109651216/187035843-5880873a-cdf1-4aa9-b385-9e0fa834eae8.png">
 
 ## Summary
-A movie has to have a lot of thiings done right fcor it to succeed, but sometimes it might be just luck. 
+A movie has to have a lot of things done right fcor it to succeed, but sometimes it might be just luck. 
