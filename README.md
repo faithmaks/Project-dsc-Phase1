@@ -44,4 +44,4 @@ For a movie to succeed, you need to get the right production team, find the righ
 <img width="385" alt="image" src="https://user-images.githubusercontent.com/109651216/187035843-5880873a-cdf1-4aa9-b385-9e0fa834eae8.png">
 
 ## Summary
-A movie has to have a lot of things done right fcor it to succeed, but sometimes it might be just luck. 
+A movie has to have a lot of things done right for it to succeed, but sometimes it might be just luck. Either way, the directors, writers, genre and distributors have to be picked right. 
